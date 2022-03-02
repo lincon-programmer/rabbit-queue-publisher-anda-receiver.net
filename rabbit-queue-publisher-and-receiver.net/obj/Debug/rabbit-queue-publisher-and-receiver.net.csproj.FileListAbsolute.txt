@@ -1,0 +1,7 @@
+C:\Users\lincon\Documents\POCS\rabbit-queue-publisher-anda-receiver.net\rabbit-queue-publisher-and-receiver.net\bin\Debug\rabbit-queue-publisher-and-receiver.net.exe.config
+C:\Users\lincon\Documents\POCS\rabbit-queue-publisher-anda-receiver.net\rabbit-queue-publisher-and-receiver.net\bin\Debug\rabbit-queue-publisher-and-receiver.net.exe
+C:\Users\lincon\Documents\POCS\rabbit-queue-publisher-anda-receiver.net\rabbit-queue-publisher-and-receiver.net\bin\Debug\rabbit-queue-publisher-and-receiver.net.pdb
+C:\Users\lincon\Documents\POCS\rabbit-queue-publisher-anda-receiver.net\rabbit-queue-publisher-and-receiver.net\obj\Debug\rabbit-queue-publisher-and-receiver.net.csproj.AssemblyReference.cache
+C:\Users\lincon\Documents\POCS\rabbit-queue-publisher-anda-receiver.net\rabbit-queue-publisher-and-receiver.net\obj\Debug\rabbit-queue-publisher-and-receiver.net.csproj.CoreCompileInputs.cache
+C:\Users\lincon\Documents\POCS\rabbit-queue-publisher-anda-receiver.net\rabbit-queue-publisher-and-receiver.net\obj\Debug\rabbit-queue-publisher-and-receiver.net.exe
+C:\Users\lincon\Documents\POCS\rabbit-queue-publisher-anda-receiver.net\rabbit-queue-publisher-and-receiver.net\obj\Debug\rabbit-queue-publisher-and-receiver.net.pdb
